@@ -1,4 +1,5 @@
 /ignore.bat
-/.vs/*
 /app/obj/*
 /app/bin/*
+/app/.vs/app/v15
+/.vs/*
