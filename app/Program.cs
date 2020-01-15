@@ -10,6 +10,8 @@ namespace app
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Running app");
+            Console.ReadLine();
         }
     }
 }
